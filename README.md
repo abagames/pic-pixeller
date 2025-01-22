@@ -2,6 +2,8 @@
 
 A web-based tool that transforms regular images into pixel art with customizable settings.
 
+<a href="https://abagames.github.io/pic-pixeller/index.html"><img src="./pic-pixeller.png" width="835px"></a>
+
 ## Key Features
 
 ### Image Processing
