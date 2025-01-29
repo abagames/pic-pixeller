@@ -785,7 +785,7 @@ const PicPixellerComponent = () => {
                   value={[settings.targetWidth]}
                   min={8}
                   max={256}
-                  step={8}
+                  step={4}
                   onValueChange={(value) =>
                     setSettings((prev) => ({ ...prev, targetWidth: value[0] }))
                   }
